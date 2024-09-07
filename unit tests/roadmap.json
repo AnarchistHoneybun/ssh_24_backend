@@ -1,0 +1,387 @@
+{
+  "1": {
+    "Step_number": 1,
+    "Step_name": "Foundation in Financial Analysis",
+    "Time_frame": "3-4 months",
+    "Description": "Develop a strong understanding of core financial concepts and analytical techniques.",
+    "Difficulty": "Beginner",
+    "Prerequisites": [],
+    "Sub_steps": [
+      {
+        "Sub_step_number": 1,
+        "Sub_step_name": "Financial Accounting Fundamentals",
+        "Sub_step_description": "Learn the basics of accounting, including balance sheets, income statements, and cash flow statements.",
+        "Difficulty": "Beginner",
+        "Status": "Incomplete",
+        "Substep_roadmap": null
+      },
+      {
+        "Sub_step_number": 2,
+        "Sub_step_name": "Financial Ratios and Analysis",
+        "Sub_step_description": "Master common financial ratios and their interpretation to assess company performance.",
+        "Difficulty": "Beginner",
+        "Status": "Incomplete",
+        "Substep_roadmap": null
+      },
+      {
+        "Sub_step_number": 3,
+        "Sub_step_name": "Valuation Methods",
+        "Sub_step_description": "Explore various valuation techniques like discounted cash flow (DCF) analysis, comparable company analysis, and precedent transactions.",
+        "Difficulty": "Beginner",
+        "Status": "Incomplete",
+        "Substep_roadmap": null
+      }
+    ],
+    "Resources": [
+      "Investopedia",
+      "Khan Academy",
+      "Corporate Finance Institute"
+    ],
+    "Status": "Incomplete",
+    "roadmap_type": "Business and Finance"
+  },
+  "2": {
+    "Step_number": 2,
+    "Step_name": "Data Analysis Skills",
+    "Time_frame": "2-3 months",
+    "Description": "Develop proficiency in data analysis tools and techniques commonly used in financial analysis.",
+    "Difficulty": "Intermediate",
+    "Prerequisites": [
+      "Foundation in Financial Analysis"
+    ],
+    "Sub_steps": [
+      {
+        "Sub_step_number": 1,
+        "Sub_step_name": "Microsoft Excel Mastery",
+        "Sub_step_description": "Gain expertise in advanced Excel functions, formulas, and data visualization.",
+        "Difficulty": "Intermediate",
+        "Status": "Incomplete",
+        "Substep_roadmap": null
+      },
+      {
+        "Sub_step_number": 2,
+        "Sub_step_name": "Introduction to SQL",
+        "Sub_step_description": "Learn the basics of SQL for data retrieval and manipulation.",
+        "Difficulty": "Intermediate",
+        "Status": "Incomplete",
+        "Substep_roadmap": null
+      },
+      {
+        "Sub_step_number": 3,
+        "Sub_step_name": "Data Visualization Tools",
+        "Sub_step_description": "Explore data visualization tools like Tableau or Power BI to create impactful presentations.",
+        "Difficulty": "Intermediate",
+        "Status": "Incomplete",
+        "Substep_roadmap": null
+      }
+    ],
+    "Resources": [
+      "Coursera",
+      "Udemy",
+      "DataCamp"
+    ],
+    "Status": "Incomplete",
+    "roadmap_type": "Business and Finance"
+  },
+  "3": {
+    "Step_number": 3,
+    "Step_name": "Financial Modeling and Forecasting",
+    "Time_frame": "3-4 months",
+    "Description": "Build expertise in creating and analyzing financial models for business decision-making.",
+    "Difficulty": "Advanced",
+    "Prerequisites": [
+      "Data Analysis Skills"
+    ],
+    "Sub_steps": [
+      {
+        "Sub_step_number": 1,
+        "Sub_step_name": "Financial Modeling Concepts",
+        "Sub_step_description": "Understand the principles of financial modeling and their application in various scenarios.",
+        "Difficulty": "Advanced",
+        "Status": "Incomplete",
+        "Substep_roadmap": null
+      },
+      {
+        "Sub_step_number": 2,
+        "Sub_step_name": "Building Financial Models",
+        "Sub_step_description": "Develop proficiency in building financial models using Excel or dedicated modeling software.",
+        "Difficulty": "Advanced",
+        "Status": "Incomplete",
+        "Substep_roadmap": null
+      },
+      {
+        "Sub_step_number": 3,
+        "Sub_step_name": "Forecasting Techniques",
+        "Sub_step_description": "Learn various forecasting methods and their use in financial analysis.",
+        "Difficulty": "Advanced",
+        "Status": "Incomplete",
+        "Substep_roadmap": null
+      }
+    ],
+    "Resources": [
+      "Wall Street Prep",
+      "Financial Modeling Institute",
+      "Corporate Finance Institute"
+    ],
+    "Status": "Incomplete",
+    "roadmap_type": "Business and Finance"
+  },
+  "4": {
+    "Step_number": 4,
+    "Step_name": "Industry Knowledge and HDFC Bank Specifics",
+    "Time_frame": "1-2 months",
+    "Description": "Gain knowledge of the Indian banking sector and HDFC Bank's operations, products, and services.",
+    "Difficulty": "Intermediate",
+    "Prerequisites": [
+      "Financial Modeling and Forecasting"
+    ],
+    "Sub_steps": [
+      {
+        "Sub_step_number": 1,
+        "Sub_step_name": "Indian Banking Industry Research",
+        "Sub_step_description": "Study the Indian banking landscape, key players, regulatory environment, and current trends.",
+        "Difficulty": "Intermediate",
+        "Status": "Incomplete",
+        "Substep_roadmap": null
+      },
+      {
+        "Sub_step_number": 2,
+        "Sub_step_name": "HDFC Bank Analysis",
+        "Sub_step_description": "Analyze HDFC Bank's financial statements, recent news, and key initiatives to understand its business model.",
+        "Difficulty": "Intermediate",
+        "Status": "Incomplete",
+        "Substep_roadmap": null
+      },
+      {
+        "Sub_step_number": 3,
+        "Sub_step_name": "Networking with HDFC Bank Professionals",
+        "Sub_step_description": "Connect with professionals at HDFC Bank through LinkedIn or industry events to gain insights.",
+        "Difficulty": "Intermediate",
+        "Status": "Incomplete",
+        "Substep_roadmap": null
+      }
+    ],
+    "Resources": [
+      "HDFC Bank Website",
+      "Industry Reports",
+      "LinkedIn"
+    ],
+    "Status": "Incomplete",
+    "roadmap_type": "Business and Finance"
+  },
+  "5": {
+    "Step_number": 5,
+    "Step_name": "Real-World Experience",
+    "Time_frame": "6-12 months",
+    "Description": "Gain practical experience through internships or projects that demonstrate your skills and knowledge.",
+    "Difficulty": "Advanced",
+    "Prerequisites": [
+      "Industry Knowledge and HDFC Bank Specifics"
+    ],
+    "Sub_steps": [
+      {
+        "Sub_step_number": 1,
+        "Sub_step_name": "Internship at HDFC Bank",
+        "Sub_step_description": "Apply for internships within HDFC Bank's financial analysis or related departments to gain hands-on experience.",
+        "Difficulty": "Advanced",
+        "Status": "Incomplete",
+        "Substep_roadmap": null
+      },
+      {
+        "Sub_step_number": 2,
+        "Sub_step_name": "Financial Modeling Projects",
+        "Sub_step_description": "Develop personal projects involving financial modeling for real-world scenarios to showcase your abilities.",
+        "Difficulty": "Advanced",
+        "Status": "Incomplete",
+        "Substep_roadmap": null
+      },
+      {
+        "Sub_step_number": 3,
+        "Sub_step_name": "Case Study Competitions",
+        "Sub_step_description": "Participate in financial analysis case study competitions to enhance problem-solving and presentation skills.",
+        "Difficulty": "Advanced",
+        "Status": "Incomplete",
+        "Substep_roadmap": null
+      }
+    ],
+    "Resources": [
+      "HDFC Bank Careers Page",
+      "Financial Modeling Case Study Platforms",
+      "Industry Competitions"
+    ],
+    "Status": "Incomplete",
+    "roadmap_type": "Business and Finance"
+  },
+  "6": {
+    "Step_number": 6,
+    "Step_name": "Networking and Professional Development",
+    "Time_frame": "Ongoing",
+    "Description": "Build your professional network and continuously update your skills to stay ahead in the competitive field.",
+    "Difficulty": "Intermediate",
+    "Prerequisites": [
+      "Real-World Experience"
+    ],
+    "Sub_steps": [
+      {
+        "Sub_step_number": 1,
+        "Sub_step_name": "Attend Industry Conferences",
+        "Sub_step_description": "Participate in financial analysis conferences and events to network and learn from industry experts.",
+        "Difficulty": "Intermediate",
+        "Status": "Incomplete",
+        "Substep_roadmap": null
+      },
+      {
+        "Sub_step_number": 2,
+        "Sub_step_name": "Join Professional Associations",
+        "Sub_step_description": "Become a member of relevant professional associations like the CFA Institute or the Indian Institute of Bankers.",
+        "Difficulty": "Intermediate",
+        "Status": "Incomplete",
+        "Substep_roadmap": null
+      },
+      {
+        "Sub_step_number": 3,
+        "Sub_step_name": "Stay Updated with Industry Trends",
+        "Sub_step_description": "Read industry publications, blogs, and research reports to stay informed about the latest developments in financial analysis.",
+        "Difficulty": "Intermediate",
+        "Status": "Incomplete",
+        "Substep_roadmap": null
+      }
+    ],
+    "Resources": [
+      "CFA Institute",
+      "Indian Institute of Bankers",
+      "Financial Times",
+      "Bloomberg"
+    ],
+    "Status": "Incomplete",
+    "roadmap_type": "Business and Finance"
+  },
+  "7": {
+    "Step_number": 7,
+    "Step_name": "Job Application and Interview Preparation",
+    "Time_frame": "Ongoing",
+    "Description": "Prepare for job applications and interviews at HDFC Bank.",
+    "Difficulty": "Advanced",
+    "Prerequisites": [
+      "Networking and Professional Development"
+    ],
+    "Sub_steps": [
+      {
+        "Sub_step_number": 1,
+        "Sub_step_name": "Tailor Your Resume and Cover Letter",
+        "Sub_step_description": "Customize your resume and cover letter to highlight your skills and experience relevant to HDFC Bank's requirements.",
+        "Difficulty": "Advanced",
+        "Status": "Incomplete",
+        "Substep_roadmap": null
+      },
+      {
+        "Sub_step_number": 2,
+        "Sub_step_name": "Practice Interview Questions",
+        "Sub_step_description": "Prepare for common interview questions, including behavioral, technical, and case study questions related to financial analysis.",
+        "Difficulty": "Advanced",
+        "Status": "Incomplete",
+        "Substep_roadmap": {
+  "1": {
+    "Sub_step_number": 1,
+    "Step_number": 1,
+    "Step_name": "Identify Common Interview Questions",
+    "Time_frame": "1-2 days",
+    "Description": "Research and list common interview questions for financial analyst roles at HDFC and similar companies.",
+    "Difficulty": "Beginner",
+    "Resources": [
+      "Glassdoor",
+      "Indeed",
+      "LinkedIn",
+      "Careercup",
+      "LeetCode"
+    ],
+    "Substep_roadmap": null,
+    "Status": "Incomplete"
+  },
+  "2": {
+    "Sub_step_number": 1,
+    "Step_number": 2,
+    "Step_name": "Practice Behavioral Questions",
+    "Time_frame": "2-3 days",
+    "Description": "Prepare answers for behavioral questions focusing on your skills, experience, and motivation for the role.",
+    "Difficulty": "Intermediate",
+    "Resources": [
+      "STAR method",
+      "Interviewing.io",
+      "Pramp",
+      "Mock interviews"
+    ],
+    "Substep_roadmap": null,
+    "Status": "Incomplete"
+  },
+  "3": {
+    "Sub_step_number": 1,
+    "Step_number": 3,
+    "Step_name": "Practice Technical Questions",
+    "Time_frame": "3-4 days",
+    "Description": "Prepare for technical questions related to financial analysis concepts, such as financial statements, valuation, and market analysis.",
+    "Difficulty": "Advanced",
+    "Resources": [
+      "Investopedia",
+      "Wall Street Prep",
+      "Corporate Finance Institute",
+      "Financial Modeling",
+      "Practice problems"
+    ],
+    "Substep_roadmap": null,
+    "Status": "Incomplete"
+  },
+  "4": {
+    "Sub_step_number": 1,
+    "Step_number": 4,
+    "Step_name": "Practice Case Studies",
+    "Time_frame": "2-3 days",
+    "Description": "Practice solving case studies related to financial analysis scenarios, focusing on your analytical and problem-solving skills.",
+    "Difficulty": "Advanced",
+    "Resources": [
+      "Case Interview Secrets",
+      "Management Consulted",
+      "Victor Cheng",
+      "Case study competitions",
+      "Mock interviews"
+    ],
+    "Substep_roadmap": null,
+    "Status": "Incomplete"
+  },
+  "5": {
+    "Sub_step_number": 1,
+    "Step_number": 5,
+    "Step_name": "Mock Interviewing",
+    "Time_frame": "1-2 days",
+    "Description": "Conduct mock interviews with peers or mentors to practice your responses and receive feedback.",
+    "Difficulty": "Intermediate",
+    "Resources": [
+      "Mock interview platforms",
+      "Career services",
+      "Mentorship programs",
+      "Industry professionals"
+    ],
+    "Substep_roadmap": null,
+    "Status": "Incomplete"
+  }
+}
+      },
+      {
+        "Sub_step_number": 3,
+        "Sub_step_name": "Network for Referrals",
+        "Sub_step_description": "Leverage your network to seek referrals and insider information about open positions at HDFC Bank.",
+        "Difficulty": "Advanced",
+        "Status": "Incomplete",
+        "Substep_roadmap": null
+      }
+    ],
+    "Resources": [
+      "Glassdoor",
+      "Indeed",
+      "LinkedIn",
+      "Interview Preparation Resources"
+    ],
+    "Status": "Incomplete",
+    "roadmap_type": "Business and Finance"
+  }
+}

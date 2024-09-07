@@ -1,0 +1,53 @@
+{
+    "1": {
+        "Sub_step_number": 1,
+        "Step_number": 1,
+        "Step_name": "Identify Common Interview Questions",
+        "Time_frame": "1-2 days",
+        "Description": "Research and compile a list of frequently asked interview questions for ML roles at Microsoft. This canbe done through online resources like Glassdoor, LeetCode, or by speaking with current or former employees.",
+        "Difficulty": "Beginner",
+        "Resources": [
+            "https://www.glassdoor.com/Interview/Microsoft-Interview-Questions-EI_IE1007.0,13_IL.15,27_IN.31,33_KO.40,48_IP.50,51,55.htm",
+            "https://leetcode.com/company/microsoft/",
+            "https://www.linkedin.com/in/microsoft-employees"
+        ]
+    },
+    "2": {
+        "Sub_step_number": 1,
+        "Step_number": 2,
+        "Step_name": "Practice Answering Behavioral Questions",
+        "Time_frame": "2-3 days",
+        "Description": "Prepare for behavioral interview questions by reflecting on your past experiences and formulating compelling stories that highlight your skills andaccomplishments. Use the STAR method (Situation, Task, Action, Result) to structure your answers.",
+        "Difficulty": "Intermediate",
+        "Resources": [
+            "https://www.indeed.com/career-advice/interviewing/star-method",
+            "https://www.youtube.com/watch?v=bV07lU4hZtE"
+        ]
+    },
+    "3": {
+        "Sub_step_number": 1,
+        "Step_number": 3,
+        "Step_name": "Practice Technical Interview Questions",
+        "Time_frame": "5-7 days",
+        "Description": "Prepare for technical questions by solvingpractice problems related to ML concepts, algorithms, and data structures. Utilize online platforms like LeetCode, HackerRank, or Kaggle for practice.",
+        "Difficulty": "Advanced",
+        "Resources": [
+            "https://leetcode.com/problemset/machine-learning/",
+            "https://www.hackerrank.com/domains/machine-learning",
+            "https://www.kaggle.com/learn/machine-learning"
+        ]
+    },
+    "4": {
+        "Sub_step_number": 1,
+        "Step_number": 4,
+        "Step_name": "Mock Interview Practice",
+        "Time_frame": "2-3 days",
+        "Description": "Conduct mock interviews with friends, peers, or career coaches. This will help you get comfortable with the interview process and receive valuable feedback on your performance.",
+        "Difficulty": "Intermediate",
+        "Resources": [
+            "https://www.pramp.com/",
+            "https://www.interviewbit.com/",
+            "https://www.careercup.com/"
+        ]
+    }
+}
